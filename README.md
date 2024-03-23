@@ -1,5 +1,3 @@
-# Voice_Authentication
-
 # Voice Authentication System
 
 This Python script implements a basic voice authentication system using audio recordings. It allows users to register their voice and later authenticate themselves by comparing their recorded voice with the registered one.
