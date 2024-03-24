@@ -44,6 +44,6 @@ pip install numpy scipy pyaudio scikit-learn fastdtw
 - Adjust the `threshold` value according to your requirement for voice similarity. The default value is set to `125000`.
 - The script currently supports only mono-channel (single-channel) audio files in WAV format.
 
-##Dynamic Time Warping (DTW)
+## Dynamic Time Warping (DTW)
 - DTW is an algorithm used to measure the similarity between two sequences that may vary in time or speed. It is commonly applied in the field of time-series analysis, speech recognition, handwriting recognition, and other areas where comparing sequences with different lengths or time scales is required.
 
